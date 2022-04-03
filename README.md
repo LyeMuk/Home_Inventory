@@ -1,2 +1,2 @@
-# homeinventory
+# Homeinventory
 home inventary project
